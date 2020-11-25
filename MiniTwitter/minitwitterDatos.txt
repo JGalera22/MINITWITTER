@@ -1,0 +1,35 @@
+/auth/signup
+
+{
+  "username": "JaviGarciaDAM",
+  "email": "galera221412@gmail.com",
+  "password": "1234",
+  "code": "UDEMYANDROID"
+}
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoiSmF2aUdhcmNpYURBTSIsImVtYWlsIjoiZ2FsZXJhMjIxNDEyQGdtYWlsLmNvbSIsInBhc3N3b3JkIjoiNzExMGVkYTRkMDllMDYyYWE1ZTRhMzkwYjBhNTcyYWMwZDJjMDIyMCIsInJvbGUiOiJ1c2VyIiwiYWN0aXZlIjpmYWxzZSwibmV3UGFzc3dvcmQiOiIiLCJkZXNjcmlwY2lvbiI6IiIsIndlYnNpdGUiOiIiLCJwaG90b1VybCI6IiIsImFjdGl2YXRpb25Db2RlIjo4Njg5NiwiY3JlYXRlZCI6IjIwMjAtMTEtMjVUMDc6NTI6MTUuNjE3WiIsImlkIjoxOTAzfSwiZXhwIjoxNjA2ODk1NTM2LCJpYXQiOjE2MDYyOTA3MzV9.wGoeh5GYgLSTEy-wHuakOBJ37O62fWCDRhfZomfb2WE",
+  "username": "JaviGarciaDAM",
+  "email": "galera221412@gmail.com",
+  "role": "user",
+  "photoUrl": "",
+  "created": "2020-11-25T07:52:15.617Z",
+  "active": false
+}
+
+
+/auth/login
+
+{
+  "email": "galera221412@gmail.com",
+  "password": "1234"
+}
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoxOTAzLCJ1c2VybmFtZSI6IkphdmlHYXJjaWFEQU0iLCJlbWFpbCI6ImdhbGVyYTIyMTQxMkBnbWFpbC5jb20iLCJwaG90b1VybCI6IiIsImFjdGl2ZSI6ZmFsc2UsImNyZWF0ZWQiOiIyMDIwLTExLTI1VDA3OjUyOjE1LjAwMFoifSwiZXhwIjoxNjA2ODk1Njg4LCJpYXQiOjE2MDYyOTA4ODd9.dBVwuGSk1HndnpkTl6ekScGUHVULrvdbyDuz6WoqJ8U",
+  "username": "JaviGarciaDAM",
+  "email": "galera221412@gmail.com",
+  "photoUrl": "",
+  "created": "2020-11-25T07:52:15.000Z",
+  "active": false
+}
