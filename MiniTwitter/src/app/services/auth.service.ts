@@ -6,15 +6,11 @@ import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 const LOGIN_URL = 'https://www.minitwitter.com:3001/apiv1/auth/login';
 
-var token = localStorage.getItem('token')
-
 const httpOptions = {
   headers: new HttpHeaders({
-    'Content-Type':  'application/json',
-    'Authorization': 'Bearer ' + token
+    'Content-Type':  'application/json'
   })
 };
-
 
 @Injectable({
   providedIn: 'root'
